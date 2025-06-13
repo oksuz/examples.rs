@@ -1,5 +1,5 @@
 [package]
-name = "type-state-pattern"
+name = "typestate-pattern"
 version = "0.1.0"
 edition = "2021"
 
